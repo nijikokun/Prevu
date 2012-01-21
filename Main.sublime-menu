@@ -1,0 +1,36 @@
+[
+    {
+        "caption": "Preferences",
+        "mnemonic": "n",
+        "id": "preferences",
+        "children":
+        [
+            {
+                "caption": "Package Settings",
+                "mnemonic": "P",
+                "id": "package-settings",
+                "children":
+                [
+                    {
+                        "caption": "Prevu",
+                        "children":
+                        [
+                            {
+                                "caption": "Settings - Default",
+                                "command": "open_file", "args": {
+                                    "file": "${packages}/Prevu/Prevu.sublime-settings"
+                                }
+                            },
+                            {
+                                "caption": "Settings - User",
+                                "command": "open_file", "args": {
+                                    "file": "${packages}/User/Prevu.sublime-settings"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

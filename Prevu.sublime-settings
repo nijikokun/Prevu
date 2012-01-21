@@ -1,0 +1,16 @@
+{
+	// Regex denoting how Prevu will find the location of your application
+    // What comes after it will be appended to the URL.
+	"code": "((//|\\#|\\*|\\!)\\s?((l|L)(ocation|OCATION)):?\\s?)",
+	
+	// Url to local server or remote server depending on how you are testing.
+    // No trailing slashes
+    //
+    // Some Examples:
+    //
+    //      http://localhost:8888
+    //      http://localhost
+    //      htpp://127.0.0.1
+    //
+	"url": "http://localhost"
+}

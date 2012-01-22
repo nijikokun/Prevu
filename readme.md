@@ -12,7 +12,7 @@ Add a comment with the following tag:
 location: project/
 ```
 
-And use the key-combo `ctrl + alt + p` to use prevu. This will cause a new tab or window to open in your default browser.
+And use the key-combo `ctrl + shift + q` to use prevu. This will cause a new tab or window to open in your default browser.
 
 Url will turn into: `http://localhost/project`
 

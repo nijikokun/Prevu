@@ -1,5 +1,5 @@
 [  
     {  
-        "keys": ["ctrl+alt+p"], "command": "prevu"  
+        "keys": ["ctrl+shift+q"], "command": "prevu"  
     }  
 ]  
